@@ -9,9 +9,6 @@ Adjust model parameters in
  
 Utilises the data assimilation algorithm and results obtained via thw SWE-1D-Bath project.
 
-Verification of numerical solvers used in Second Order Adjoint scheme done using a kappa convergence test in 
-* __Kappa_test_bath.m__
-
 Visualize results using 
 * __plots_hv_f.m__ 
 
