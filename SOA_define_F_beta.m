@@ -1,5 +1,5 @@
 function [F] = SOA_define_F_beta(case_number, data_file)
-addpath(genpath('/Users/Ramsha/Dropbox/McMaster University/PhD Research/Matlab Code'))
+addpath(genpath('/Users/Ramsha/...'))
 % Defines the RHS function F in Hv = F for SOA implementation
 % Input:
 %       Results of optimal DA scheme

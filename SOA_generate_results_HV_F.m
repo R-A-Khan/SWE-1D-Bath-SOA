@@ -1,5 +1,5 @@
 clear all
-cd(('/Users/Ramsha/Dropbox/McMaster University/PhD Research/Matlab Code/SOA_Implementation'))
+cd(('/Users/Ramsha/.../SOA_Implementation'))
 
 %%
 obs_vals = [5 10 15 25 35 45 75];

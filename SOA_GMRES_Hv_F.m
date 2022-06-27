@@ -1,8 +1,8 @@
 function [v_opt,flag,relres,iter,resvec] = SOA_GMRES_Hv_F(case_number, method, data_file)
 
 
-% addpath(genpath('/Users/Ramsha/Dropbox/McMaster University/PhD Research/Matlab Code/SWE Bath Data Assimilation 1D'))
-addpath(genpath('/Users/Ramsha/Dropbox/McMaster University/PhD Research/Matlab Code 2D'))
+% addpath(genpath('/Users/Ramsha/.../SWE Bath Data Assimilation 1D'))
+addpath(genpath('/Users/Ramsha/... 2D'))
 
 
 % Solves for optimal v minimising ||Hv-F||_inf in SOA implementation

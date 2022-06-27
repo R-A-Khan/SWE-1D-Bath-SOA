@@ -1,8 +1,8 @@
 
 function [Hv] = SOA_hess_bath( v, case_number,data_file)
 
-% addpath(genpath('/Users/Ramsha/Dropbox/McMaster University/PhD Research/Matlab Code/SWE Bath Data Assimilation 1D'))
-addpath(genpath('/Users/Ramsha/Dropbox/McMaster University/PhD Research/Matlab Code 2D'))
+% addpath(genpath('/Users/Ramsha/.../SWE Bath Data Assimilation 1D'))
+addpath(genpath('/Users/Ramsha/... 2D'))
 
 % if case_number == 1
 %     if ~double_obs 

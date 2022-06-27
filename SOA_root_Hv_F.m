@@ -1,8 +1,8 @@
 function [v,fval,exitflag,output] = SOA_root_Hv_F(v_guess, case_number)
 
 
-addpath(genpath('/Users/Ramsha/Dropbox/McMaster University/PhD Research/Matlab Code/SWE Bath Data Assimilation 1D'))
-addpath(genpath('/Users/Ramsha/Dropbox/McMaster University/PhD Research/Matlab Code 2D'))
+addpath(genpath('/Users/Ramsha/.../SWE Bath Data Assimilation 1D'))
+addpath(genpath('/Users/Ramsha/... 2D'))
 
 
 % Solves for optimal v minimising ||Hv-F||_inf in SOA implementation

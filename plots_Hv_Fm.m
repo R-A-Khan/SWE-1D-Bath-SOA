@@ -1,6 +1,6 @@
 %% Plots for HV = F
 
-addpath(genpath('/Users/Ramsha/Dropbox/McMaster University/PhD Research/Matlab Code/SOA Implementation/Results'))
+addpath(genpath('/Users/Ramsha/.../SOA Implementation/Results'))
 
 %%
 clear all
@@ -27,7 +27,7 @@ end
 %% Plots for dG/dM
 
 
-% addpath(genpath('/Users/Ramsha/Dropbox/McMaster University/PhD Research/Matlab Code/SOA Implementation/Results'))
+% addpath(genpath('/Users/Ramsha/.../SOA Implementation/Results'))
 clear all
 for case_num = 1:3;
 

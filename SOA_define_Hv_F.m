@@ -1,7 +1,7 @@
 function [A_inf] = SOA_define_Hv_F(beta_hat, case_number, F)
 
-addpath(genpath('/Users/Ramsha/Dropbox/McMaster University/PhD Research/Matlab Code/SWE Bath Data Assimilation 1D'))
-addpath(genpath('/Users/Ramsha/Dropbox/McMaster University/PhD Research/Matlab Code 2D'))
+addpath(genpath('/Users/Ramsha/.../SWE Bath Data Assimilation 1D'))
+addpath(genpath('/Users/Ramsha/... 2D'))
 
 %% Find Hessian of J given beta_hat
 
