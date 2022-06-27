@@ -5,17 +5,15 @@ Khan, R.A. and Kevlahan, N.K.-R., 2022. Variational Assimilation of Surface Wave
 
 ## Usage
 Adjust model parameters in 
-* __run_data_assimil_bath.m__  
-or
-* __run_data_assimil_bath_CG_tikhonov_multnorm.m__ (if using Conjugate Gradient descent and Tikhonov Regularisation). 
+* __SOA_generate_results.m__. 
  
 Utilises the data assimilation algorithm and results obtained via thw SWE-1D-Bath project.
 
-Verification of numerical solvers used in DA scheme done using a kappa convergence test in 
+Verification of numerical solvers used in Second Order Adjoint scheme done using a kappa convergence test in 
 * __Kappa_test_bath.m__
 
 Visualize results using 
-* __plots.m__ 
+* __plots_hv_f.m__ 
 
 Built using Matlab 2018a, including Optimization toolbox.
 
